@@ -151,3 +151,4 @@ alias sb='source ~/.bashrc'
 
 alias cls='clear'
 alias cpb='cp ~/.bashrc ~/CodeHub/Projects/Aliases/.bashrc'
+alias njs='node script.js'
